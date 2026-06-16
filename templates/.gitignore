@@ -1,0 +1,45 @@
+# === OS files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === R ===
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+env/
+
+# === LaTeX ===
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# === Large / binary files ===
+# If you need to track these, use Git LFS instead
+*.tif
+*.tiff
+*.mp4
+*.mov
+*.avi
+*.bag
+
+# === Temporary files ===
+*.tmp
+*~
+*.swp
+*.bak
+
+# === Sensitive ===
+.env
+credentials.*
