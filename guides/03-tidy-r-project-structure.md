@@ -48,9 +48,9 @@ ggsave(here("output", "figures", "fig01-biomass.png"))
 ## 2. The recommended folder structure
 
 ```
-surname-dissertation-2026/
+title-dissertation-2026/
 │
-├── surname-dissertation-2026.Rproj   ← open the project from here
+├── title-dissertation-2026.Rproj   ← open the project from here
 ├── README.md                         ← what this project is (use the template)
 ├── .gitignore                        ← what Git should ignore
 ├── renv.lock                         ← exact package versions (optional, see §6)
