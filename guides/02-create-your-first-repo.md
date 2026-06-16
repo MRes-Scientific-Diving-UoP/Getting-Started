@@ -47,6 +47,15 @@ You do all your work locally, then `push` to send your saved changes up to GitHu
 
 ---
 
+> ### ⚡ Shortcut: start from the template
+> The fastest way to get a repo with the right structure already in it is the
+> **[project-template](https://github.com/MRes-Scientific-Diving-UoP/project-template)**:
+> open it, click the green **"Use this template" → "Create a new repository"**,
+> choose the **MRes-Scientific-Diving-UoP** organisation, name it, and you're done —
+> GitHub creates the repo *and* the folder layout for you. Then just `git clone` it
+> (Step 3 below) and start working. The manual steps below are worth reading once so
+> you understand what's happening under the hood.
+
 ## Step 1 — Create the empty repo on GitHub
 
 > **Note:** student repos live inside the **MRes-Scientific-Diving-UoP** organisation. If you can't create one there, ask Dr Fraser or Dr Favoretto to create it for you (or to add you to the organisation), then continue from Step 2.

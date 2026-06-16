@@ -91,6 +91,8 @@ If you're new to Git, **GitHub Desktop** is the easiest way to get started — i
 
 Each student gets their own repository within the organisation. To create it for the first time — connecting a folder on your laptop to GitHub with `git init`, `add`, `commit`, and `push` — follow **[Guide 2: Create Your First Repository](guides/02-create-your-first-repo.md)**.
 
+> 💡 **Quickest start:** rather than building this by hand, start from the [**project-template**](https://github.com/MRes-Scientific-Diving-UoP/project-template) repo — click *"Use this template"* and GitHub creates a new repo with the whole structure already in place.
+
 Your repo should follow the structure below. For the full reproducible, tidy-R version (RStudio Projects, the `here` package, tidy data, `renv`), see **[Guide 3: Tidy R Project Structure](guides/03-tidy-r-project-structure.md)**.
 
 ```
