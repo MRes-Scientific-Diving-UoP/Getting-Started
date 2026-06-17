@@ -263,7 +263,7 @@ If your project involves large datasets (video, photogrammetry, GIS rasters), do
 | Python | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 | Statistics help | Dr Richard Preziosi (SCIDIV5002) |
 | Project issues | Your dissertation supervisor |
-| This GitHub org | Dr Keiron Fraser |
+| This GitHub org | Dr Fabio Favoretto (fabio.favoretto@plymouth.ac.uk) |
 
 ---
 

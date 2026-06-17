@@ -58,7 +58,7 @@ You do all your work locally, then `push` to send your saved changes up to GitHu
 
 ## Step 1 — Create the empty repo on GitHub
 
-> **Note:** student repos live inside the **MRes-Scientific-Diving-UoP** organisation. If you can't create one there, ask Dr Fraser or Dr Favoretto to create it for you (or to add you to the organisation), then continue from Step 2.
+> **Note:** student repos live inside the **MRes-Scientific-Diving-UoP** organisation. If you can't create one there, ask Dr Favoretto (fabio.favoretto@plymouth.ac.uk) to create it for you (or to add you to the organisation), then continue from Step 2.
 
 1. Go to **[github.com/organizations/MRes-Scientific-Diving-UoP/repositories/new](https://github.com/organizations/MRes-Scientific-Diving-UoP/repositories/new)**
 2. **Repository name:** e.g. `surname-dissertation-2026`
